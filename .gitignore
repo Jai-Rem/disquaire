@@ -1,1 +1,4 @@
 disquaire_project_default_save
+disquaire_project/settings/production.py
+__pycache__
+disquaire_project/staticfiles/
